@@ -277,6 +277,14 @@
                 "resourcePath": "views\\fd027229-5cfe-4b53-b341-09bd613c4fa2.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "ffa8d43d-772d-456a-a739-79b681a9e64f",
+            "Value": {
+                "id": "30ecf691-d33f-4ce4-b1e4-70a2e38950f9",
+                "resourcePath": "rooms\\Level4\\Level4.yy",
+                "resourceType": "GMRoom"
+            }
         }
     ],
     "script_order": [
