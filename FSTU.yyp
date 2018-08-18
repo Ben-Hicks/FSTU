@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "80986e73-d369-4dc0-bf93-56c8383330c8",
+            "Value": {
+                "id": "c91e23e2-25e9-4746-ba7e-52fa944adc1e",
+                "resourcePath": "rooms\\Borkdork\\Borkdork.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "99327435-2430-4eb7-bf1f-a5b46b252852",
             "Value": {
                 "id": "02909515-5bee-426a-9e93-0df24e720c28",
