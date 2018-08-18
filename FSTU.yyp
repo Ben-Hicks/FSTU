@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2fccf94e-ec95-46ab-b1ee-e504902082d3",
+            "Value": {
+                "id": "286d2656-ada6-4112-b852-a2f52c57b710",
+                "resourcePath": "rooms\\Level5\\Level5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "366a028f-ff7c-46ef-be4b-16905830f2e8",
             "Value": {
                 "id": "d4c652b3-f2f0-4321-acea-13f9db07f4bf",
@@ -282,6 +290,8 @@
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "9170f85f-e7aa-44a7-9a0c-b757c8bc8b2d",
+
+
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
