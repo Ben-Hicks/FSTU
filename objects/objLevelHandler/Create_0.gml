@@ -9,5 +9,3 @@ global.nGravityDir = 3;  //Gravity Left
 */
 
 global.nVelocityT = 9;	 //Terminal Velocity
-
-global.nLevelGoals = 0;
