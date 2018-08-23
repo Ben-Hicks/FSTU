@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "300922d7-178f-473d-b230-0272ffbc9071",
+            "Value": {
+                "id": "067d80b9-d179-47f2-b801-14b8494a9414",
+                "resourcePath": "views\\300922d7-178f-473d-b230-0272ffbc9071.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "338e3fb4-5097-4f8c-9658-42855e83b35e",
+            "Value": {
+                "id": "458c88c6-fe9b-4429-a17d-976829129607",
+                "resourcePath": "sprites\\sprGoalSquare4\\sprGoalSquare4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "366a028f-ff7c-46ef-be4b-16905830f2e8",
             "Value": {
                 "id": "d4c652b3-f2f0-4321-acea-13f9db07f4bf",
@@ -71,10 +87,34 @@
             }
         },
         {
+            "Key": "43d56969-8618-482b-8c8e-3893593b764d",
+            "Value": {
+                "id": "a4fc5f90-3d12-457f-a662-b89a244639ba",
+                "resourcePath": "sprites\\sprFurnitureSquare3\\sprFurnitureSquare3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "49950cec-46e2-4177-accc-f348cd19eca1",
             "Value": {
                 "id": "ac03b819-1729-489a-b259-eec51211f231",
                 "resourcePath": "views\\49950cec-46e2-4177-accc-f348cd19eca1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58e8555d-22c3-47b0-9089-9e54eabf266b",
+            "Value": {
+                "id": "d0ccb34f-ce2f-42f9-9c57-8abe1a9a426d",
+                "resourcePath": "sprites\\sprGoalSquare3\\sprGoalSquare3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "634fdc6b-908f-4552-9176-82a9fa8bccf0",
+            "Value": {
+                "id": "615ea611-1580-41b0-a991-8dd4d6b36db0",
+                "resourcePath": "views\\634fdc6b-908f-4552-9176-82a9fa8bccf0.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -100,6 +140,14 @@
                 "id": "2e36addf-6e50-4d40-b012-75b46840756b",
                 "resourcePath": "views\\6f9fd108-c91c-48d5-b2b0-44796bb93e2d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "77cbf680-5535-4a2e-8e4b-142b3ba03c38",
+            "Value": {
+                "id": "83c4ae0b-03df-488c-8640-2098e92b300a",
+                "resourcePath": "sprites\\sprFurnitureSquare2\\sprFurnitureSquare2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -170,7 +218,7 @@
             "Key": "a49af0d9-f41a-43ed-97c1-7936b1887cbb",
             "Value": {
                 "id": "44a7e361-6676-4a7f-8beb-9bf60155e602",
-                "resourcePath": "sprites\\sprFurnitureSquare\\sprFurnitureSquare.yy",
+                "resourcePath": "sprites\\sprFurnitureSquare1\\sprFurnitureSquare1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -196,6 +244,14 @@
                 "id": "8c69e932-9f41-48ef-892c-1d744859af1b",
                 "resourcePath": "views\\b11b4a02-7b08-4b0d-a13d-ddc842dd6725.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b5dba3ee-5820-4b5b-9726-c30923b3a09d",
+            "Value": {
+                "id": "c4419a7c-5614-4b38-aa35-35b267fa5244",
+                "resourcePath": "sprites\\sprFurnitureSquare4\\sprFurnitureSquare4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -242,7 +298,7 @@
             "Key": "e026b988-50be-4b49-a1a1-fe8a9794fe8e",
             "Value": {
                 "id": "0fe9b910-133b-480f-8c39-e572def8c3e9",
-                "resourcePath": "sprites\\sprGoalSquare\\sprGoalSquare.yy",
+                "resourcePath": "sprites\\sprGoalSquare1\\sprGoalSquare1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -284,6 +340,14 @@
                 "id": "9f6acb1b-8746-4fce-a0c0-136ca040b4f4",
                 "resourcePath": "views\\f5fc6b8d-4a32-4917-818f-6581afb6fddf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb12e78a-a391-4fed-a374-a7755f66278f",
+            "Value": {
+                "id": "4954f555-3301-4976-ad85-44f62976398c",
+                "resourcePath": "sprites\\sprGoalSquare2\\sprGoalSquare2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
